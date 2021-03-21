@@ -7,4 +7,8 @@ use Illuminate\Http\Request;
 class exampleController extends Controller
 {
     //
+    public function test()
+    {
+        return "example";
+    }
 }
