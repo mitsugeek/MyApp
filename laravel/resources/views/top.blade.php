@@ -12,6 +12,7 @@
 
     <ul>
         <li><a href="{{route("top")}}">トップページ</a></li>
+        <li><a href="{{route("task_list")}}">タスク一覧</a></li>
     </ul>
 </body>
 </html>
